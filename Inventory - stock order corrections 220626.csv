@@ -1,0 +1,4 @@
+﻿ItemCode,ItemName,Warehouse,OnOrder,OrderCorrection,Reason
+CC012,Blue Paper Roll,W01-F00-A06-B05,50,100,partially used stock counted as whole
+EC102,LED Bulkhead Light,W01-F00-A02-B05,150,-150,Discontinued stock - cancelled order
+PS006,Pallet Wrap Roll,W01-F00-A07-B01,0,50,Not-recorded order sheet found

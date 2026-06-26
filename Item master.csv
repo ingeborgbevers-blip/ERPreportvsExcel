@@ -1,0 +1,49 @@
+﻿ItemCode,ItemName,ProductGroup,LeadTimeDays,ReorderLevel,DefaultWarehouse,ActiveStatus,UnitCost,MinOrderQty,PreferredSupplier
+BM003,V-Belt A32,Bearings and mechanical spares,1,1000,W01-F01-A08-B07,Active,0.013,1000,S0025
+BM021,Motor Coupling 25mm,Bearings and mechanical spares,1,2500,W01-F01-A08-B05,Active,0.008,1500,S0025
+BM058,Ball Bearing 6204,Bearings and mechanical spares,1,1500,W01-F01-A08-B08,Active,0.002,1500,S0150
+BM069,Taper Lock Bush,Bearings and mechanical spares,3,2000,W01-F01-A08-B02,Active,0.159,1500,S0043
+BM104,Roller Chain 1/2 Inch,Bearings and mechanical spares,1,1500,W01-F01-A08-B06,Active,0.027,1500,S0150
+BM161,Grease Cartridge,Bearings and mechanical spares,1,1500,W01-F01-A08-B03,Active,0.567,1500,S0025
+CC012,Blue Paper Roll,Cleaning and site consumables,1,50,W01-F00-A06-B05,Active,0.36,50,S0069
+CC036,Industrial Degreaser 5L,Cleaning and site consumables,1,50,W01-F00-A06-B05,Active,10.36,50,S0069
+CC056,Floor Cleaner 10L,Cleaning and site consumables,1,50,W01-F00-A06-B05,Active,23.1,50,S0010
+CC075,Absorbent Pads Pack,Cleaning and site consumables,1,50,W01-F00-A06-B03,Active,1.74,50,S0010
+CC095,Hand Sanitiser 5L,Cleaning and site consumables,1,50,W01-F00-A06-B05,Active,5.056,50,S0069
+CC101,Heavy Duty Refuse Sacks,Cleaning and site consumables,1,50,W01-F00-A06-B05,Active,1.59,50,S0010
+EC002,2.5mm Twin & Earth Cable,Electrical consumables,3,100,W01-F00-A02-B05,Active,0.012,250,S0035
+EC045,Cable Glands Pack,Electrical consumables,3,75,W01-F00-A02-B05,Active,0.027,25,S0050
+EC075,Emergency Stop Button,Electrical consumables,3,50,W01-F00-A02-B05,Active,0.036,50,S0035
+EC085,Junction Box IP65,Electrical consumables,14,500,W01-F00-A02-B05,Active,0.032,1000,S0050
+EC102,LED Bulkhead Light,Electrical consumables,14,500,W01-F00-A02-B05,Discontinued,0.065,50,S0050
+EC226,13A Double Socket,Electrical consumables,5,50,W01-F00-A02-B05,Active,0.071,25,S0050
+FF003,Coach Screws 75mm,Fasteners and fixings,3,1500,W01-F00-A01-B01,Active,0.003,500,S0150
+FF015,Spring Washers,Fasteners and fixings,7,3500,W01-F00-A01-B01,Active,0.003,500,S0025
+FF025,Wall Plugs 8mm,Fasteners and fixings,3,2500,W01-F00-A01-B01,Active,0.004,500,S0150
+FF106,Cable Clips,Fasteners and fixings,3,2500,W01-F00-A01-B01,Active,0.012,500,S0025
+FF125,M8 Zinc Hex Bolts,Fasteners and fixings,3,1000,W01-F00-A01-B01,Active,0.005,500,S0150
+FF158,M10 Stainless Steel Nuts,Fasteners and fixings,7,3500,W01-F00-A01-B01,Active,0.004,500,S0025
+PP002,15mm Copper Elbow,Plumbing and pipe fittins,21,2500,W01-F00-A03-B02,Active,0.012,1000,S0042
+PP025,22mm Compression Coupler,Plumbing and pipe fittins,21,2500,W01-F00-A03-B02,Active,0.013,500,S0043
+PP068,Flexible Tap Connector,Plumbing and pipe fittins,7,1500,W01-F00-A03-B02,Discontinued,0.006,500,S0044
+PP072,Brass Stop End,Plumbing and pipe fittins,3,1500,W01-F00-A03-B05,Active,0.026,1000,S0047
+PP084,PTFE Tape,Plumbing and pipe fittins,3,1500,W01-F00-A03-B05,Active,0.03,500,S0046
+PP117,Isolation Valve,Plumbing and pipe fittins,3,500,W01-F00-A03-B05,Active,0.049,300,S0045
+PS006,Pallet Wrap Roll,Packaging and warehouse supplies,3,50,W01-F00-A07-B01,Active,0.036,50,S0031
+PS008,Bubble Wrap Roll,Packaging and warehouse supplies,1,750,W01-F00-A07-B08,Active,0.089,750,S0031
+PS034,Pallet Labels,Packaging and warehouse supplies,1,2500,W01-F01-A07-B05,Active,0.035,1000,S0031
+PS072,Packing Tape Clear,Packaging and warehouse supplies,3,50,W01-F01-A07-B02,Active,0.043,50,S0031
+PS092,Strapping Band,Packaging and warehouse supplies,1,2500,W01-F01-A07-B08,Active,0.148,1000,S0031
+PS112,Cardboard Box Medium,Packaging and warehouse supplies,1,750,W01-F00-A07-B05,Active,1.023,750,S0031
+SS003,Nitrile Gloves Box,PPE and safety supplies,7,250,W01-F01-A05-B03,Active,0.012,500,S0152
+SS069,Hi-Vis Vest Large,PPE and safety supplies,7,250,W01-F01-A05-B03,Active,0.005,500,S0152
+SS078,Safety Glasses Clear,PPE and safety supplies,7,250,W01-F01-A05-B03,Active,0.068,500,S0152
+SS109,Ear Defenders,PPE and safety supplies,3,100,W01-F01-A05-B01,Active,1.03,100,S0069
+SS143,Dust Masks FFP2,PPE and safety supplies,3,100,W01-F01-A05-B02,Discontinued,0.026,100,S0069
+SS158,Cut Resistant Gloves,PPE and safety supplies,7,500,W01-F01-A05-B05,Active,2.36,1000,S0069
+TE001,Cordless Drill 18V,Tools and small equipment,3,25,W01-F01-A04-B05,Active,35.75,1,S0110
+TE008,Adjustable Spanner,Tools and small equipment,3,50,W01-F01-A04-B03,Active,26.21,1,S0110
+TE010,Drill Bit Set,Tools and small equipment,3,50,W01-F01-A04-B08,Active,3.5,25,S0110
+TE015,Pipe Cutter,Tools and small equipment,5,50,W01-F01-A04-B07,Active,42.36,1,S0110
+TE036,Step Ladder 6 Tread,Tools and small equipment,7,25,W01-F00-A04-B07,Active,23.56,1,S0063
+TE085,Digital Multimeter,Tools and small equipment,5,50,W01-F01-A04-B08,Discontinued,5.036,1,S0063
